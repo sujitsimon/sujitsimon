@@ -6,7 +6,7 @@ Passionate Learner
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [gsujitsimon@gmail.com](mailto:gsujitsimon@gmail.com)
-* 🧠  I'm learning Computer Vision
+* 🧠  I'm learning Computer Vision/ Audio Processing
 * 🤝  I'm open to collaborating on Object Detection using Python
 
 ### Skills
