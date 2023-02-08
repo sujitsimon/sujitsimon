@@ -26,6 +26,10 @@ Passionate Learner
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+
+### Machine Learning Libraries
+<p>
 <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/images/logo-icon.svg" width="36" height="36" alt="Pytorch" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" width="36" height="36" alt="Tensorflow" /></a>
 </p>
